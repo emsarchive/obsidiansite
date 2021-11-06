@@ -11,7 +11,7 @@ date : 04-11-2021
 **
  
 
-One of the most important consequences of the scientific and technological revolution as well as of state monopoly capitalism over the past decades is the numerical growth and increasing influence of intellectuals in economic and social life. At the same time, the number of peasants has decreased considerably and the share of "traditional" urban middle strata has become relatively stable. The growth of intelligentsia and its greater significance in society make it vital for communists to work for a strong alliance between workers and intellectuals. It is relevant to recall what V.I.Lenin said to this effect: "No forces of darkness can withstand an alliance of the scientists, the proletariat and the technologists"¹.
+One of the most important consequences of the scientific and technological revolution as well as of state monopoly capitalism over the past decades is the numerical growth and increasing influence of intellectuals in economic and social life. At the same time, the number of peasants has decreased considerably and the share of "traditional" urban middle strata has become relatively stable. The growth of intelligentsia and its greater significance in society make it vital for communists to work for a strong alliance between workers and intellectuals. It is relevant to recall what V.I.Lenin said to this effect: "No forces of darkness can withstand an alliance of the scientists, the proletariat and the technologists"[^1].
 
   
 
@@ -55,7 +55,7 @@ In developing countries of Asia and Africa the rates of growth of intellectuals 
 
   
 
-The numerical growth has not been the only change in the position of intellectuals in capitalist countries over the past few years. Its social and class position has also changed, proletarisation being the main tendency here. An overwhelming majority of intellectuals are working for hire. Subjected to exploitation, their lower sections, low skill professionals, come close to the working class and sometimes even merge with it. Intellectuals termed as "professionals" have actually become an anachronism because even traditionally "independent" intellectuals as doctors, lawyers, writers, painters, etc. work for a living in private clinics, lawyers' bureaus, publicity agencies, etc. Even the formally professionals who have retained the legal ownership of their offices are also dominated by the big capital (through commissions, clients, etc.). All that fully proves a statement by K.Marx and F.Engels that "the bourgeoisie has stripped of its halo every occupation hitherto honoured and looked up to with reverent awe. It has converted the physician, the lawyer, the priest, the poet, the man of science, into its paid wage labourers."
+The numerical growth has not been the only change in the position of intellectuals in capitalist countries over the past few years. Its social and class position has also changed, proletarisation being the main tendency here. An overwhelming majority of intellectuals are working for hire. Subjected to exploitation, their lower sections, low skill professionals, come close to the working class and sometimes even merge with it. Intellectuals termed as "professionals" have actually become an anachronism because even traditionally "independent" intellectuals as doctors, lawyers, writers, painters, etc. work for a living in private clinics, lawyers' bureaus, publicity agencies, etc. Even the formally professionals who have retained the legal ownership of their offices are also dominated by the big capital (through commissions, clients, etc.). All that fully proves a statement by K.Marx and F.Engels that "the bourgeoisie has stripped of its halo every occupation hitherto honoured and looked up to with reverent awe. It has converted the physician, the lawyer, the priest, the poet, the man of science, into its paid wage labourers."[^2]
 
   
 
@@ -85,11 +85,11 @@ Intellectuals are highly differentiated economically. Intellectual positions dif
 
   
 
-The general deterioration of the intellectuals' economic and social position in capitalist countries, their objective closeness to the working class have exerted much influence on many intellectuals, involving them in class struggle. Lenin's words that the intelligentsia attaches itself to the wage-workers  ‘’as capitalism increasingly deprives the intellectual of his independent position, converts him into a hired worker and threatens to lower his living standard’’, are true to this day.
+The general deterioration of the intellectuals' economic and social position in capitalist countries, their objective closeness to the working class have exerted much influence on many intellectuals, involving them in class struggle. Lenin's words that the intelligentsia attaches itself to the wage-workers  ‘’as capitalism increasingly deprives the intellectual of his independent position, converts him into a hired worker and threatens to lower his living standard’’[^3], are true to this day.
 
   
 
-No other social group has ever developed so acute socioeconomic heterogeneity and ideological contradictions which often overshadow the sense of social identity. V.I.Lenin said that the intelligentsia "most consciously, most resolutely and most accurately reflect and express the development of class interests and political groupings in society as a whole".
+No other social group has ever developed so acute socioeconomic heterogeneity and ideological contradictions which often overshadow the sense of social identity. V.I.Lenin said that the intelligentsia "most consciously, most resolutely and most accurately reflect and express the development of class interests and political groupings in society as a whole"[^4].
 
   
 
@@ -122,7 +122,7 @@ The monopoly bourgeoisie have lately invited many outstanding scientists and exp
 
   
 
-The International Meeting of Communist Workers' Parties stated in 1969: "In this age, when science is becoming a direct productive force, growing numbers of intellectuals are swelling the ranks of wage and salary workers. Their social interests intertwine with those of the working class: their creative aspirations clash with the interests of the monopoly employers, who place profit above all else. Despite the great diversity in their positions, different groups of intellectuals are coming more and more into conflict with the monopolies and the imperialist policy of governments. The crisis of bourgeois ideology and the attraction to socialism help to bring intellectuals into the anti-imperialist struggle".
+The International Meeting of Communist Workers' Parties stated in 1969: "In this age, when science is becoming a direct productive force, growing numbers of intellectuals are swelling the ranks of wage and salary workers. Their social interests intertwine with those of the working class: their creative aspirations clash with the interests of the monopoly employers, who place profit above all else. Despite the great diversity in their positions, different groups of intellectuals are coming more and more into conflict with the monopolies and the imperialist policy of governments. The crisis of bourgeois ideology and the attraction to socialism help to bring intellectuals into the anti-imperialist struggle"[^5].
 
   
 
@@ -138,7 +138,7 @@ Apart from many repressions against progressive intellectuals (bans on professio
 
   
 
-In this context, it is very important for communists to win intellectuals to the side of democracy and socialism. Communist and workers' parties attach a great importance to the alliance between the working class and intellectuals in the struggle against monopolies, for peace, democracy and socialism. The Political Declaration of Communist Parties of European Capitalist Countries (Brussels, 1974) stated that there is a broader basis for unity between the working class and the intelligentsia which is very important today. The French Communist Party stressed at its 19th Congress that this alliance is of paramount importance for the future revolutionary movement." Similar assessments can be found in programmatic documents adopted by communist parties of the USA, Canada, Chile, Uruguay, Argentina, Italy, Belgium, West Germany, etc.
+In this context, it is very important for communists to win intellectuals to the side of democracy and socialism. Communist and workers' parties attach a great importance to the alliance between the working class and intellectuals in the struggle against monopolies, for peace, democracy and socialism. The Political Declaration of Communist Parties of European Capitalist Countries (Brussels, 1974) stated that there is a broader basis for unity between the working class and the intelligentsia which is very important today[^6]. The French Communist Party stressed at its 19th Congress that this alliance is of paramount importance for the future revolutionary movement.[^7]" Similar assessments can be found in programmatic documents adopted by communist parties of the USA, Canada, Chile, Uruguay, Argentina, Italy, Belgium, West Germany, etc.
 
   
 
@@ -150,7 +150,7 @@ With the help of outstanding intellectuals, many commu nist parties have elabora
 
   
 
-Communist parties are working to attract intellectuals to join the party. In Italy, France, Japan, Greece and other countries many leading personalities in science and culture are communists or sympathisers, who may even run on behalf of communist parties at elections. This heightens the political prestige of communists. As a member of the Central Committee of the Communist Party of Austria E.Wimmer said: "To exercise its leading role, the working-class party must have intellectuals in its ranks. It needs the intellectuals' talent and knowledge, and their ability to influence the mass of mental workers. They would help to generalise the experience gained by the working class in struggle, evolve the strategy of transforming society and put it into practice."
+Communist parties are working to attract intellectuals to join the party. In Italy, France, Japan, Greece and other countries many leading personalities in science and culture are communists or sympathisers, who may even run on behalf of communist parties at elections. This heightens the political prestige of communists. As a member of the Central Committee of the Communist Party of Austria E.Wimmer said: "To exercise its leading role, the working-class party must have intellectuals in its ranks. It needs the intellectuals' talent and knowledge, and their ability to influence the mass of mental workers. They would help to generalise the experience gained by the working class in struggle, evolve the strategy of transforming society and put it into practice.[^8]"
 
   
 
@@ -174,21 +174,20 @@ Alongside ideological work among intellectuals, communists are also trying to es
 
   
 
-The alliance between the working class and the intelligentsia is valuable not only in the struggle against monopolies. V.I.Lenin said that the intelligentsia is needed "for our socialist revolution. We know socialism can only be built from elements of large-scale capitalist culture, and the intellectuals are one of these elements" that "we cannot build" the state "if we do not utilise such a heritage of capitalist culture as the intellectuals ". Through a stronger unity with intellectuals within a broad anti-monopoly and anti-imperialist front the working class can create favourable conditions for the building of socialism and communism which is its ultimate goal.
+The alliance between the working class and the intelligentsia is valuable not only in the struggle against monopolies. V.I.Lenin said that the intelligentsia is needed "for our socialist revolution. We know socialism can only be built from elements of large-scale capitalist culture, and the intellectuals are one of these elements[^9]" that "we cannot build" the state "if we do not utilise such a heritage of capitalist culture as the intellectuals[^10]". Through a stronger unity with intellectuals within a broad anti-monopoly and anti-imperialist front the working class can create favourable conditions for the building of socialism and communism which is its ultimate goal.
 
 **
 <br>
-
-1. International Meeting of Communist and Workers’ Parties, Moscow 1969, p.25
-2. K. Marx and F.Engels “Manifesto of the Communist Party”, Collected Works, vol. 6, p. 487.
-3. V.I.Lenin, CW, vol. 4, p. 202.
-4. V.I.Lenin, CW, vol. 7, p. 45.
-5. International Meeting of Communist and Workers' Parties, Moscow, 1969, p.25.
-6. L'Humanité, January 30, 1974.
-7. Economie et politique, 1970, No. 188, p. 85.
-8. World Marxist Review, No. 2, 1976, p. 30.
-9. V. I. Lenin, CW, vol. 28, p. 213.
-10. Ibid., p.215.
+ 
 
 
-
+[^1]: International Meeting of Communist and Workers’ Parties, Moscow 1969, p.25
+[^2]: K. Marx and F.Engels “Manifesto of the Communist Party”, Collected Works, vol. 6, p. 487.
+[^3]: V.I.Lenin, CW, vol. 4, p. 202.
+[^4]: V.I.Lenin, CW, vol. 7, p. 45.
+[^5]: International Meeting of Communist and Workers' Parties, Moscow, 1969, p.25.
+[^6]: L'Humanité, January 30, 1974.
+[^7]: Economie et politique, 1970, No. 188, p. 85.
+[^8]: World Marxist Review, No. 2, 1976, p. 30.
+[^9]:  V. I. Lenin, CW, vol. 28, p. 213.
+[^10]: Ibid., p.215.
