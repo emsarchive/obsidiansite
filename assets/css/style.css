@@ -7,7 +7,7 @@ layout: Stylesheet
 
 html, html[data-theme="light"] {
     --bg-main: #FFFFFF;
-    --bg-sub: #FAFAFC;
+    --bg-sub: #EDEDED;
     --color-bis: #363636;
     --text-main: #18181C;
     --text-sub: #5D5D67;
@@ -19,7 +19,7 @@ html[data-theme="dark"] {
     --bg-main: #1e1c1c;
     --bg-sub: #212121;
     --color-bis: #E6E6E6;
-    --text-main: #FAFAFC;
+    --text-main: #EDEDED;
     --text-sub: #FFFFFF;
     --link: #ff4545;
     --border: #353535;
@@ -30,7 +30,7 @@ html[data-theme="dark"] {
     html, html[data-theme="dark"] {
         --bg-main: #18181C;
         --bg-sub: #262626;
-        --text-main: #FAFAFC;
+        --text-main: #EDEDED;
         --text-sub: #FFFFFF;
         --link: #ff4545;
         --border: #353535;
@@ -38,7 +38,7 @@ html[data-theme="dark"] {
 
     html[data-theme="light"] {
 	    --bg-main: #FFFFFF;
-        --bg-sub: #FAFAFC;
+        --bg-sub: #EDEDED;
         --text-main: #18181C;
         --text-sub: #5D5D67;
         --link: #ff4545;
